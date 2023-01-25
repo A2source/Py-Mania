@@ -1,0 +1,5 @@
+#Hard
+#Still looking for a challenge?
+Well, this might be it!
+This is hard mode!
+#denouement,hard.json

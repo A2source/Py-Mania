@@ -1,0 +1,6 @@
+#Easy
+#Welcome to Py-Mania! I recommend you
+start here as a tutorial!
+#
+tutorial,easy.json
+ballad of a lama,normal.json

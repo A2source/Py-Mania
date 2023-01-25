@@ -1,0 +1,6 @@
+#Normal
+#Easy too.. well, easy for you?
+Play these songs and step the difficulty 
+up a notch!
+#tutorial,normal.json
+deceit,normal.json
