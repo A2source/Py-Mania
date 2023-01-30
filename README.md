@@ -4,7 +4,7 @@ An 8-Key rhythm game written in Python! All open source!
 ![py-mania-logo_dark](https://user-images.githubusercontent.com/111814721/213879715-63565e32-70d9-4710-83bf-b1cb611bead7.png#gh-dark-mode-only)
 <br /> <br />
 Thanks to DeliriousPersona for drawing the logo circle!!
-<br />
+<br /> <br />
 **Known Issues:** <br />
 Note loading is EXREMELY un-optimized <br />
 Hold-Note segments in the chart editor are not positioned correctly <br />
